@@ -52,7 +52,7 @@ banner1 = '''
 ██║   ██║   ██╔══██║    ██╔═══╝ ██╔══██║██║╚════██║██╔══██║
 ██║   ██║   ██║  ██║    ██║     ██║  ██║██║███████║██║  ██║
 ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
-By Hades ITA                                 version: 1.0                
+By Prax IT                              version: 1.0                
 '''
 
 
@@ -68,7 +68,7 @@ banner2 = '''
  ▒ ░  ░        ░   ▒      ░░        ░  ░░ ░ ▒ ░░  ░  ░   ░  ░░ ░
  ░                 ░  ░             ░  ░  ░ ░        ░   ░  ░  ░
 
-By Hades ITA                                         version 1.0                                                                
+By Prax IT                                       version 1.0                                                                
 '''
 
 banner3 = '''
@@ -81,7 +81,7 @@ banner3 = '''
     /\_____\ \ \_\ \ \_\ \_\   \ \_\   \ \_\ \_\/\_____\ `\____\ \_\ \_\\
     \/_____/  \/_/  \/_/\/_/    \/_/    \/_/\/_/\/_____/\/_____/\/_/\/_/
 
-By Hades ITA                                                 version 1.0                                                                      
+By Prax IT                                                version 1.0                                                                      
 '''
 
 
@@ -366,7 +366,7 @@ if choice == 103:
     os.system("clear")
     print(about)
     print("")
-    print("Created By Hades ITA")
+    print("Created By Prax IT")
     print("Instagram : https://www.instagram.com/hades_ita/?hl=fr")
     print("My discord server : https://discord.gg/EfXtwS6")
     var = input()
